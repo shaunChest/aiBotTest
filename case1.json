@@ -1,0 +1,9 @@
+{
+  "patient": {
+    "name": "John Doe",
+    "age": 52,
+    "symptoms": ["chest pain", "shortness of breath"],
+    "vitals": { "BP": "150/95", "HR": 110 },
+    "notes": "Admitted with unresolved chest discomfort."
+  }
+}
