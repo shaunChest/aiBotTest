@@ -1,9 +1,13 @@
 {
   "patient": {
     "name": "John Doe",
-    "age": 52,
-    "symptoms": ["chest pain", "shortness of breath"],
-    "vitals": { "BP": "150/95", "HR": 110 },
-    "notes": "Admitted with unresolved chest discomfort."
+    "age": 68,
+    "symptoms": ["shortness of breath", "productive cough", "fatigue"],
+    "vitals": {
+      "BP": "135/85",
+      "HR": 96,
+      "Temp": "98.6F"
+    },
+    "notes": "Long history of smoking (40 pack-years). Reports increased sputum over the past 3 months. Auscultation reveals wheezing and prolonged expiration. SpO2 at rest is 92%."
   }
 }
