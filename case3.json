@@ -1,0 +1,13 @@
+{
+  "patient": {
+    "name": "Thomas Reed",
+    "age": 64,
+    "symptoms": ["sudden confusion", "slurred speech", "right arm weakness"],
+    "vitals": {
+      "BP": "170/105",
+      "HR": 94,
+      "Temp": "98.7F"
+    },
+    "notes": "Symptoms started approximately 30 minutes before arrival. No prior stroke history. Family reports patient was fine earlier this morning."
+  }
+}
