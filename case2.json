@@ -2,12 +2,12 @@
   "patient": {
     "name": "Maria Gonzalez",
     "age": 36,
-    "symptoms": ["persistent cough", "low-grade fever", "fatigue"],
+    "symptoms": ["persistent dry cough", "low-grade fever", "fatigue"],
     "vitals": {
       "BP": "118/76",
       "HR": 88,
       "Temp": "100.4F"
     },
-    "notes": "Patient reports a cough lasting over 2 weeks, worsens at night. No history of smoking or chronic illness. Mild wheezing noted on auscultation."
+    "notes": "Patient reports a cough that started one week ago after a cold. Denies smoking or history of lung disease. No abnormal breath sounds. Chest X-ray clear."
   }
 }
