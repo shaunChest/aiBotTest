@@ -1,0 +1,12 @@
+{
+  "question": "What is the most appropriate next step in managing this patient?",
+  "options": {
+    "A": "Administer intravenous tissue plasminogen activator (tPA)",
+    "B": "Initiate aspirin therapy",
+    "C": "Start heparin infusion",
+    "D": "Begin high-dose statin therapy"
+  },
+  "correctAnswer": "A",
+  "rationale": "Administering intravenous tissue plasminogen activator (tPA) is the most appropriate next step for a patient with an acute ischemic stroke if they meet certain criteria and are within the treatment window. tPA can help dissolve the clot and restore blood flow to the affected brain region, potentially improving outcomes.",
+  "reference": "Powers, W. J., Rabinstein, A. A., Ackerson, T., Adeoye, O. M., Bambakidis, N. C., Becker, K., ... & Yavagal, D. R. (2019). 2018 Guidelines for the Early Management of Patients with Acute Ischemic Stroke: A Guideline for Healthcare Professionals from the American Heart Association/American Stroke Association. Stroke, 50(12), e344–e418. https://doi.org/10.1161/STR.0000000000000211"
+}
